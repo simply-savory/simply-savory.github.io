@@ -36,7 +36,7 @@ Looking to improve on:
  <li> </li>
 </ul>
 
-### Felix Hong
+### Felix Hong <img width="200" height="200" src="../images/Kade-Shiroma.jpg">
 Background/Current Skills
 <ul>
  <li> </li>
