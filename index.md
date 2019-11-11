@@ -65,7 +65,7 @@ Looking to improve on:
 </ul>
 
 
-## Mockup Pages
+## Mockup Pages (screenshots in progress)
 <ul> 
  <li>Landing </li>
  <li>Account Creation/Sign In </li>
