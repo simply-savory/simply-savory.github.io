@@ -39,6 +39,7 @@ Looking to improve on:
 </ul>
 
 ### Felix Hong 
+<img width="200" height="200" src="../images/FelixHong_ProfilePic.jpg">
 Background/Current Skills
 <ul>
  <li> </li>
@@ -61,3 +62,12 @@ Looking to improve on:
 
 
 ## Mockup Pages
+<ul> 
+ <li>Landing </li>
+ <li>Account Creation/Sign In </li>
+ <li>User Home Page (Your Recipes) </li>
+ <li>Admin Home Page(All Recipes) </li>
+ <li>Discover New Recipes </li>
+ <li>Search Recipes </li>
+ <li>Individual Recipes Page </li>
+</ul>
