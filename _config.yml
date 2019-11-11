@@ -2,7 +2,7 @@ title: Simply-Savory
 description: Sharing recipes for the UH Manoa Community
 google_analytics:
 show_downloads: false
-theme: jekyll-vision-casper-theme
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/simply-savory/
