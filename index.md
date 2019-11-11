@@ -14,3 +14,63 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
  <li>Has an estimated number of servings per recipe. </li>
  <li>Has an estimate of how long it takes to make. </li>
  </ul>
+
+## The Team
+### Jared Au
+Background/Current Skills
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+
+### Nate Chu
+Background/Current Skills
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+
+### Felix Hong
+Background/Current Skills
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+
+### Kade Shiroma
+Background/Current Skills
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+Looking to improve on:
+<ul>
+ <li> </li>
+</ul>
+
+
+## Mockup Pages
