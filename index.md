@@ -16,7 +16,8 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
  </ul>
 
 ## The Team
-### Jared Au <img width="200" height="200" src="../images/jared.jpg">
+### Jared Au 
+<img width="200" height="200" src="../images/jared.jpg">
 Background/Current Skills
 <ul>
  <li> </li>
@@ -26,7 +27,8 @@ Looking to improve on:
  <li> </li>
 </ul>
 
-### Nate Chu <img width="200" height="200" src="../images/nate_chu_profile.jpg">
+### Nate Chu 
+<img width="200" height="200" src="../images/nate_chu_profile.jpg">
 Background/Current Skills
 <ul>
  <li> </li>
@@ -36,7 +38,7 @@ Looking to improve on:
  <li> </li>
 </ul>
 
-### Felix Hong <img width="200" height="200" src="../images/Kade-Shiroma.jpg">
+### Felix Hong 
 Background/Current Skills
 <ul>
  <li> </li>
@@ -46,7 +48,8 @@ Looking to improve on:
  <li> </li>
 </ul>
 
-### Kade Shiroma
+### Kade Shiroma 
+<img width="200" height="200" src="../images/Kade-Shiroma.jpg">
 Background/Current Skills
 <ul>
  <li> </li>
