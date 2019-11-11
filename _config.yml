@@ -1,10 +1,10 @@
-title: BowFolios
-description: Profiles, Projects, and Interests for the UH Community
+title: Simply-Savory
+description: Sharing recipes for the UH Manoa Community
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-vision-casper-theme
 github:
   is_project_page: true
-  repository_url: https://github.com/bowfolios/bowfolios
+  repository_url: https://github.com/simply-savory/
 gems:
   - jekyll-mentions
