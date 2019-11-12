@@ -70,9 +70,13 @@ Looking to improve on:
 
 ## Mockup Pages (screenshots in progress)
 <ul> 
- <li>Landing </li>
+ <li>Landing
+ <img width="200" height="200" src="../images/Landing-mockpage.jpeg">
+ </li>
  <li>Account Creation/Sign In </li>
- <li>User Home Page (Your Recipes) </li>
+ <li>User Home Page (Your Recipes)
+ <img width="200" height="200" src="../images/my-recipes-mockpage.jpeg">
+ </li>
  <li>Admin Home Page(All Recipes) </li>
  <li>Discover New Recipes </li>
  <li>Search Recipes </li>
