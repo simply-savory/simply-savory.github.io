@@ -89,4 +89,5 @@ Looking to improve on:
  <li>Discover New Recipes </li>
  <li>Search Recipes </li>
  <li>Individual Recipes Page </li>
+   <img width="400" height="300" src="../images/IndividualRecipe.jpg">
 </ul>
