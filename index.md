@@ -51,7 +51,7 @@ Looking to improve on:
 
 Background/Current Skills
 <ul>
- <li>Javasciprt</li>
+ <li>Javascript</li>
  <li>C and C++</li>
  <li>Python</li>
  <li>Verilog</li>
