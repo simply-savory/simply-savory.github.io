@@ -83,14 +83,16 @@ Looking to improve on:
 ## Mockup Pages (screenshots in progress)
 <ul> 
  <li>Landing</li>
- <img width="200" height="200" src="../images/Landing-mockpage.jpeg">
+ <img width="400" height="300" src="../images/Landing-mockpage.jpeg">
  <li>Account Creation/Sign In </li>
   <img width="400" height="350" src="../images/account-creation.jpg">
  <li>User Home Page (Your Recipes)</li>
- <img width="200" height="200" src="../images/my-recipes-mockpage.jpeg">
+ <img width="400" height="300" src="../images/my-recipes-mockpage.jpeg">
  <li>Admin Home Page(All Recipes) </li>
- <li>Discover New Recipes </li>
+ <li>Discover New Recipes </li> 
+ <img width="400" height="300" src="../images/DiscoverMock.jpg">
  <li>Search Recipes </li>
+ <img width="400" height="300" src="../images/SearchResultMock.jpg">
  <li>Individual Recipes Page </li>
    <img width="400" height="300" src="../images/IndividualRecipe.jpg">
 </ul>
