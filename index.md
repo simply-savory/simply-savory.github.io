@@ -33,11 +33,14 @@ Looking to improve on:
 
 Background/Current Skills
 <ul>
- <li> </li>
+ <li>JavaScript</li>
+ <li>C and C++</li>
 </ul>
 Looking to improve on:
 <ul>
- <li> </li>
+ <li>Project Management Skills</li>
+ <li>Teamwork</li>
+ <li>Web Design</li>
 </ul>
 
 ### Felix Hong 
