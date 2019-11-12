@@ -84,15 +84,15 @@ Looking to improve on:
 <ul> 
  <li><b>Landing</b></li>
  <img width="400" height="300" src="../images/Landing-mockpage.jpeg">
- <li>Account Creation/Sign In </li>
+ <li><b>Account Creation/Sign In</b> </li>
   <img width="400" height="350" src="../images/account-creation.jpg">
- <li>User Home Page (Your Recipes)</li>
+ <li><b>User Home Page (Your Recipes)</b></li>
  <img width="400" height="300" src="../images/my-recipes-mockpage.jpeg">
- <li>Admin Home Page(All Recipes) </li>
- <li>Discover New Recipes </li> 
+ <li><b>Admin Home Page(All Recipes)</b></li>
+ <li><b>Discover New Recipes</b> </li> 
  <img width="400" height="300" src="../images/DiscoverMock.JPG">
- <li>Search Recipes </li>
+ <li><b>Search Recipes</b> </li>
  <img width="400" height="300" src="../images/SearchResultMock.JPG">
- <li>Individual Recipes Page </li>
+ <li><b>Individual Recipes Page</b> </li>
    <img width="400" height="300" src="../images/IndividualRecipe.jpg">
 </ul>
