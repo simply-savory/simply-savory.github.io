@@ -21,11 +21,14 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
 
 Background/Current Skills
 <ul>
- <li> </li>
+ <li>C++ </li>
+ <li>Javascript </li>
+ <li>Project Management </li>
 </ul>
 Looking to improve on:
 <ul>
- <li> </li>
+ <li>Database Management </li>
+ <li>UI Design </li>
 </ul>
 
 ### Nate Chu 
