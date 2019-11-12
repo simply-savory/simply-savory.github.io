@@ -82,6 +82,7 @@ Looking to improve on:
  <li>Landing</li>
  <img width="200" height="200" src="../images/Landing-mockpage.jpeg">
  <li>Account Creation/Sign In </li>
+  <img width="200" height="200" src="../images/account-creation.jpg">
  <li>User Home Page (Your Recipes)</li>
  <img width="200" height="200" src="../images/my-recipes-mockpage.jpeg">
  <li>Admin Home Page(All Recipes) </li>
