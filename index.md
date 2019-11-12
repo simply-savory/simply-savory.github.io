@@ -48,11 +48,16 @@ Looking to improve on:
 
 Background/Current Skills
 <ul>
- <li> </li>
+ <li>Javasciprt</li>
+ <li>C and C++</li>
+ <li>Python</li>
+ <li>Verilog</li>
 </ul>
 Looking to improve on:
 <ul>
- <li> </li>
+ <li>C++ (advanced)</li>
+ <li>Javasciprt/webdev</li>
+ <li>Git</li>
 </ul>
 
 ### Kade Shiroma 
