@@ -89,6 +89,7 @@ Looking to improve on:
  <li><b>User Home Page (Your Recipes)</b></li>
  <img width="400" height="300" src="../images/my-recipes-mockpage.jpeg">
  <li><b>Admin Home Page(All Recipes)</b></li>
+  <img width="400" height="350" src="../images/admin-homepage.jpg">
  <li><b>Discover New Recipes</b> </li> 
  <img width="400" height="300" src="../images/DiscoverMock.JPG">
  <li><b>Search Recipes</b> </li>
