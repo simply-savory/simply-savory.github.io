@@ -90,9 +90,9 @@ Looking to improve on:
  <img width="400" height="300" src="../images/my-recipes-mockpage.jpeg">
  <li>Admin Home Page(All Recipes) </li>
  <li>Discover New Recipes </li> 
- <img width="400" height="300" src="../images/DiscoverMock.jpg">
+ <img width="400" height="300" src="../images/DiscoverMock.JPG">
  <li>Search Recipes </li>
- <img width="400" height="300" src="../images/SearchResultMock.jpg">
+ <img width="400" height="300" src="../images/SearchResultMock.JPG">
  <li>Individual Recipes Page </li>
    <img width="400" height="300" src="../images/IndividualRecipe.jpg">
 </ul>
