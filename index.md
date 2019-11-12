@@ -82,7 +82,7 @@ Looking to improve on:
 
 ## Mockup Pages (screenshots in progress)
 <ul> 
- <li>Landing</li>
+ <li><b>Landing</b></li>
  <img width="400" height="300" src="../images/Landing-mockpage.jpeg">
  <li>Account Creation/Sign In </li>
   <img width="400" height="350" src="../images/account-creation.jpg">
