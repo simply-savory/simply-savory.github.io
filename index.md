@@ -65,11 +65,15 @@ Looking to improve on:
 
 Background/Current Skills
 <ul>
- <li> </li>
+ <li>Java</li>
+ <li>Javascript</li>
+ <li>C and C++</li>
 </ul>
 Looking to improve on:
 <ul>
- <li> </li>
+ <li>Algorithms</li>
+ <li>Teamwork</li>
+ <li>Web Development</li>
 </ul>
 
 
