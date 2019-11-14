@@ -23,6 +23,8 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
   <li>Rate recipes or leave feedback if you tried them </li>
   <li>Search for a recipe by ingredient, ie. I want to make something with these eggs </li>
   <li>Filter by recipe rating or numerous other categories</li>
+  <li> Privledges for Admins & Recipe creators to make edits or remove recipes</li>
+ 
  </ul>
 
 ## The Team
