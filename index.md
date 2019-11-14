@@ -85,15 +85,15 @@ Looking to improve on:
  <li><b>Landing</b></li>
  <img width="600" height="500" src="../images/Landing-mockpage.jpeg">
  <li><b>Account Creation/Sign In</b> </li>
-  <img width="400" height="350" src="../images/account-creation.jpg">
+  <img width="600" height="550" src="../images/account-creation.jpg">
  <li><b>User Home Page (Your Recipes)</b></li>
- <img width="400" height="300" src="../images/my-recipes-mockpage.jpeg">
+ <img width="600" height="500" src="../images/my-recipes-mockpage.jpeg">
  <li><b>Admin Home Page(All Recipes)</b></li>
-  <img width="400" height="350" src="../images/admin-homepage.jpg">
+  <img width="600" height="550" src="../images/admin-homepage.jpg">
  <li><b>Discover New Recipes</b> </li> 
- <img width="400" height="300" src="../images/DiscoverMock.JPG">
+ <img width="600" height="500" src="../images/DiscoverMock.JPG">
  <li><b>Search Recipes</b> </li>
- <img width="400" height="300" src="../images/SearchResultMock.JPG">
+ <img width="600" height="500" src="../images/SearchResultMock.JPG">
  <li><b>Individual Recipes Page</b> </li>
-   <img width="400" height="300" src="../images/IndividualRecipe.jpg">
+   <img width="600" height="500" src="../images/IndividualRecipe.jpg">
 </ul>
