@@ -1,32 +1,3 @@
-## The Problem 
-
-Many college students have limited kitchen resources, limited cooking skills, limited time, limited access to grocery stores, and no access to creative recipes that respect these constraints. As a result, college students spend money to eat out, or eat non-healthy foods at fast food places or through vending machines.
-
-## The Solution
-
-Simply Savory is a recipe sharing solution that creates a way for students (both on and off campus) to learn and share recipes that:
-<ul>
- <li>Can be made using minimal kitchen facilities (at a minimum, a toaster oven). </li>
- <li>Can be made out of ingredients that are available within walking distance of UH. </li>
- <li>Suit local taste sensibilities. </li>
- <li>Can be filtered via dietary restrictions (gluten-free, vegan, etc). </li>
- <li>Have an estimated cost per serving. </li>
- <li>Has an estimated number of servings per recipe. </li>
- <li>Has an estimate of how long it takes to make. </li>
- </ul>
-
-## Project Specs
-<ul>
- <li>Users will be able to create an account or log in with their UH Info (theoretically). </li>
-  <li>Users can post a recipe, including its ingredients, directions, cooktime and other meta info </li>
-  <li>Ability to "Save" recipes from other to your own recipe book for later viewing</li>
-  <li>Rate recipes or leave feedback if you tried them </li>
-  <li>Search for a recipe by ingredient, ie. I want to make something with these eggs </li>
-  <li>Filter by recipe rating or numerous other categories</li>
-  <li> Privledges for Admins & Recipe creators to make edits or remove recipes</li>
- 
- </ul>
-
 ## The Team
 ### Jared Au 
 <img width="200" height="200" src="../images/jared.jpg">
@@ -94,6 +65,37 @@ Looking to improve on:
  <li>Teamwork</li>
  <li>Web Development</li>
 </ul>
+
+
+## The Problem 
+
+Many college students have limited kitchen resources, limited cooking skills, limited time, limited access to grocery stores, and no access to creative recipes that respect these constraints. As a result, college students spend money to eat out, or eat non-healthy foods at fast food places or through vending machines.
+
+## The Solution
+
+Simply Savory is a recipe sharing solution that creates a way for students (both on and off campus) to learn and share recipes that:
+<ul>
+ <li>Can be made using minimal kitchen facilities (at a minimum, a toaster oven). </li>
+ <li>Can be made out of ingredients that are available within walking distance of UH. </li>
+ <li>Suit local taste sensibilities. </li>
+ <li>Can be filtered via dietary restrictions (gluten-free, vegan, etc). </li>
+ <li>Have an estimated cost per serving. </li>
+ <li>Has an estimated number of servings per recipe. </li>
+ <li>Has an estimate of how long it takes to make. </li>
+ </ul>
+
+## Project Specs
+<ul>
+ <li>Users will be able to create an account or log in with their UH Info (theoretically). </li>
+  <li>Users can post a recipe, including its ingredients, directions, cooktime and other meta info </li>
+  <li>Ability to "Save" recipes from other to your own recipe book for later viewing</li>
+  <li>Rate recipes or leave feedback if you tried them </li>
+  <li>Search for a recipe by ingredient, ie. I want to make something with these eggs </li>
+  <li>Filter by recipe rating or numerous other categories</li>
+  <li> Privledges for Admins & Recipe creators to make edits or remove recipes</li>
+ 
+ </ul>
+
 
 
 ## Mockup Pages (screenshots in progress)
