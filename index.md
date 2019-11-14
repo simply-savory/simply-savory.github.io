@@ -15,11 +15,22 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
  <li>Has an estimate of how long it takes to make. </li>
  </ul>
 
+## Project Specs
+<ul>
+ <li>Users will be able to create an account or log in with their UH Info (theoretically). </li>
+  <li>Users can post a recipe, including its ingredients, directions, cooktime and other meta info </li>
+  <li>Ability to "Save" recipes from other to your own recipe book for later viewing</li>
+  <li>Rate recipes or leave feedback if you tried them </li>
+  <li>Search for a recipe by ingredient, ie. I want to make something with these eggs </li>
+  <li>Filter by recipe rating or numerous other categories</li>
+ </ul>
+
 ## The Team
 ### Jared Au 
 <img width="200" height="200" src="../images/jared.jpg">
 
 Background/Current Skills
+Computer Engineering Major
 <ul>
  <li>C++ </li>
  <li>Javascript </li>
@@ -35,6 +46,7 @@ Looking to improve on:
 <img width="200" height="200" src="../images/nate_chu_profile.jpg">
 
 Background/Current Skills
+Computer Engineering Major
 <ul>
  <li>JavaScript</li>
  <li>C and C++</li>
@@ -50,6 +62,7 @@ Looking to improve on:
 <img width="200" height="200" src="../images/FelixHong_ProfilePic.jpg">
 
 Background/Current Skills
+Computer Engineering Major
 <ul>
  <li>Javascript</li>
  <li>C and C++</li>
@@ -67,6 +80,7 @@ Looking to improve on:
 <img width="200" height="200" src="../images/Kade-Shiroma.jpg">
 
 Background/Current Skills
+Computer Science Major
 <ul>
  <li>Java</li>
  <li>Javascript</li>
