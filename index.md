@@ -3,6 +3,7 @@
 <img width="200" height="200" src="../images/jared.jpg">
 
 Background/Current Skills
+
 Computer Engineering Major
 <ul>
  <li>C++ </li>
@@ -19,6 +20,7 @@ Looking to improve on:
 <img width="200" height="200" src="../images/nate_chu_profile.jpg">
 
 Background/Current Skills
+
 Computer Engineering Major
 <ul>
  <li>JavaScript</li>
@@ -35,6 +37,7 @@ Looking to improve on:
 <img width="200" height="200" src="../images/FelixHong_ProfilePic.jpg">
 
 Background/Current Skills
+
 Computer Engineering Major
 <ul>
  <li>Javascript</li>
@@ -53,6 +56,7 @@ Looking to improve on:
 <img width="200" height="200" src="../images/Kade-Shiroma.jpg">
 
 Background/Current Skills
+
 Computer Science Major
 <ul>
  <li>Java</li>
