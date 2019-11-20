@@ -105,17 +105,17 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
 ## Mockup Pages 
 <ul> 
  <li><b>Landing</b></li>
- <img width="600" height="500" src="images/Mockups/Landing Page.png">
+ <img width="800" height="500" src="images/Mockups/Landing Page.png">
  <li><b>User Home Page (Your Recipes)</b></li>
- <img width="600" height="500" src="images/Mockups/MyRecipe1.jpg">
+ <img width="800" height="500" src="images/Mockups/MyRecipe1.jpg">
  <li><b>Account Creation/Sign In</b> </li>
-  <img width="600" height="550" src="images/Mockups/Register.png">
+  <img width="800" height="550" src="images/Mockups/Register.png">
  <li><b>Add Recipes</b></li>
-  <img width="600" height="550" src="images/Mockups/AddRecipe.png">
+  <img width="800" height="550" src="images/Mockups/AddRecipe.png">
  <li><b>Discover New Recipes</b> </li> 
- <img width="600" height="500" src="images/Mockups/Discover Recipes.jpg">
+ <img width="800" height="500" src="images/Mockups/Discover Recipes.jpg">
  <li><b>Search Recipes</b> </li>
- <img width="600" height="500" src="images/Mockups/FixedSearch.png">
+ <img width="800" height="500" src="images/Mockups/FixedSearch.png">
  <li><b>Individual Recipes Page</b> </li>
-   <img width="600" height="500" src="images/Mockups/RecipePage.jpg">
+   <img width="800" height="500" src="images/Mockups/RecipePage.jpg">
 </ul>
