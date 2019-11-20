@@ -109,7 +109,7 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
  <li><b>User Home Page (Your Recipes)</b></li>
  <img width="600" height="500" src="images/Mockups/MyRecipe1.jpg">
  <li><b>Account Creation/Sign In</b> </li>
-  <img width="600" height="550" src="../images/account-creation.jpg">
+  <img width="600" height="550" src="images/Mockups/Register.png">
  <li><b>Add Recipes</b></li>
   <img width="600" height="550" src="images/Mockups/AddRecipe.png">
  <li><b>Discover New Recipes</b> </li> 
