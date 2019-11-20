@@ -3,6 +3,8 @@
 [Click Here](https://github.com/simply-savory/simply-savory/projects/1)
 ### Milestone 2 Project Board
 [Click Here](https://github.com/simply-savory/simply-savory/projects/2)
+## Galaxy Deployment
+[Click Here](https://galaxy.meteor.com/app/simply-savory.meteorapp.com)
 ## The Team
 ### Jared Au 
 <img width="200" height="200" src="../images/jared.jpg">
@@ -110,17 +112,30 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
 ## Mockup Pages 
 <ul> 
  <li><b>Landing</b></li>
+ [Live Here](http://simply-savory.meteorapp.com/#/)
  <img width="800" height="500" src="images/Mockups/Landing Page.png">
+ 
  <li><b>User Home Page (Your Recipes)</b></li>
+ [Live Here](http://simply-savory.meteorapp.com/#/myrecipe)
  <img width="800" height="500" src="images/Mockups/MyRecipe1.jpg">
+ 
  <li><b>Account Creation/Sign In</b> </li>
+ [Live Here](http://simply-savory.meteorapp.com/#/signup)
   <img width="800" height="550" src="images/Mockups/Register.png">
+  
  <li><b>Add Recipes</b></li>
+ [Live Here](http://simply-savory.meteorapp.com/#/add)
   <img width="800" height="550" src="images/Mockups/AddRecipe.png">
+  
  <li><b>Discover New Recipes</b> </li> 
+ [Live Here](http://simply-savory.meteorapp.com/#/Discover)
  <img width="800" height="500" src="images/Mockups/Discover Recipes.jpg">
+ 
  <li><b>Search Recipes</b> </li>
+ [Live Here](http://simply-savory.meteorapp.com/#/Search)
  <img width="800" height="500" src="images/Mockups/FixedSearch.png">
+ 
  <li><b>Individual Recipes Page</b> </li>
+ [Live Here](http://simply-savory.meteorapp.com/#/Recipe)
    <img width="800" height="500" src="images/Mockups/RecipePage.jpg">
 </ul>
