@@ -1,3 +1,8 @@
+## Project Boards
+### Milestone 1 Project Board
+https://github.com/simply-savory/simply-savory/projects/1
+### Milestone 2 Project Board
+https://github.com/simply-savory/simply-savory/projects/2
 ## The Team
 ### Jared Au 
 <img width="200" height="200" src="../images/jared.jpg">
