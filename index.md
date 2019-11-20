@@ -115,7 +115,7 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
  <li><b>Discover New Recipes</b> </li> 
  <img width="600" height="500" src="images/Mockups/Discover Recipes.jpg">
  <li><b>Search Recipes</b> </li>
- <img width="600" height="500" src="images/Mockups/Search.png">
+ <img width="600" height="500" src="images/Mockups/FixedSearch.png">
  <li><b>Individual Recipes Page</b> </li>
    <img width="600" height="500" src="images/Mockups/RecipePage.jpg">
 </ul>
