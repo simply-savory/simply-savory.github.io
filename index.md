@@ -113,7 +113,7 @@ Simply Savory is a recipe sharing solution that creates a way for students (both
 <ul> 
  <li><b>Landing</b></li>
  Link:<a href="http://simply-savory.meteorapp.com/#/">Click Here</a>
- <img width="800" height="500" src="images/Mockups/Landing Page.png">
+ <img width="800" height="500" src="images/landing-mockup.PNG">
  
  <li><b>User Home Page (Your Recipes)</b></li>
  Link:<a href="http://simply-savory.meteorapp.com/#/myrecipe">Click Here</a>
