@@ -1,4 +1,4 @@
-## Project Boards
+## Important Links
 ### Milestone 1 Project Board
 [Click Here](https://github.com/simply-savory/simply-savory/projects/1)
 ### Milestone 2 Project Board
