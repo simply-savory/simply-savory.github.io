@@ -10,7 +10,7 @@
  </ul>
 <h1 id="#overview">Overview</h1>
 
-<h1 id="#user-guide>User-Guide</h1>
+<h1 id="#user-guide">User-Guide</h1>
 <ul> 
  <li><b>Landing</b></li>
  Link:<a href="http://simply-savory.meteorapp.com/#/">Click Here</a>
@@ -41,7 +41,7 @@
    <img width="800" height="500" src="images/Mockups/RecipePage.jpg">
 </ul>
 
-<h1 id="developer-guide>Developer Guide</h1>
+<h1 id="developer-guide">Developer Guide</h1>
 
 <h1 id="links">Links</h1>
 <ul>
