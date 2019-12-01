@@ -6,10 +6,9 @@
   <li><a href="#user-guide">User Guide</a></li>
  <li><a href="#developer-guide">Developer Guide</a></li>
  <li><a href="#links">Links</a> </li>
- <li> </li>
  </ul>
 <h1 id="#overview">Overview</h1>
-
+Simply Savory
 <h1 id="#user-guide">User-Guide</h1>
 <ul> 
  <li><b>Landing</b></li>
