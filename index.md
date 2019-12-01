@@ -40,11 +40,11 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
  <img width="800" height="500" src="images/Mockups/Discover Recipes.jpg">
  This<a href="http://simply-savory.meteorapp.com/#/Discover"> page </a> is where recently listed recipes are displayed along with the most popular recipes (rated by other users).
  
- <h3>Search Recipes</b> </h3>
+ <h3>Search Recipes </h3>
  <img width="800" height="500" src="images/Mockups/FixedSearch.png">
   This<a href="http://simply-savory.meteorapp.com/#/Search"> page </a> shows the results of a user search, filtering all recipes on the database using meta tags like "egg".
  
- <h3>Individual Recipes Page</h3 
+ <h3>Individual Recipes Page</h3>
    <img width="800" height="500" src="images/Mockups/RecipePage.jpg">
    This<a href="http://simply-savory.meteorapp.com/#/Recipe"> page </a> displays information about a single recipe, and is accessed by clicking on a recipe card on any page that it appears. 
  
@@ -53,8 +53,26 @@ This section will be updated after Milestone 2, when testing is done with UH stu
 
 <h1 id="#developer-guide">Developer Guide</h1>
 
-<h1 id="dev-history">Development History> </h1>
- <h2> Milestone 1</h2>
+<h1 id="dev-history">Development History</h1>
+ <h3> Milestone 1</h3>
+ In Milestone 1, the following tasks were accomplished:
+ <ul>
+ <li>Mockups for all 8 pages</li>
+ <li>Galaxy Deployment </li>
+ <li>Github.io initial creation </li>
+ <li>Navbar created & search bar </li>
+ <li>App routing & linking </li>
+ </ul>
+ <h3> Milestone 2 </h3>
+ In Milestone 2, the following tasks were accomplished:
+  <ul>
+ <li>Database setup</li>
+ <li>Cards updating from sample data</li>
+ <li>Search based on meta info</li>
+ <li>Input method to database via forms</li>
+ <li>Account mapping to cards</li>
+ </ul>
+ 
 <h1 id="#links">Links</h1>
 <ul>
   <li><a href="https://github.com/simply-savory">Simply Savory Organization Page</a></li>
