@@ -1,4 +1,4 @@
- <img width="1200" height="300" src="images/simply-savory-logo.png">
+ <img width="1500" height="300" src="images/simply-savory-logo.png">
 
 # Table of Contents
 <ul>
@@ -8,16 +8,20 @@
  <li><a href="#links">Links</a> </li>
  </ul>
 <h1 id="#overview">Overview</h1>
-Simply Savory
+Simply Savory is a web application that provides a centralized site for UH Manoa students to learn and share affordable recipes that can be prepared with minimal kitchen facilities (both on and off campus) to suit local taste sensibilities. Users will be able to browse posted recipes, search and filter by specific ingredients, and save recipes to their personal "cookbook". Recipes will have additional information that is useful for students on a budget, such as price per serving, and ingredient sales at nearby supermarkets. 
+
+
 <h1 id="#user-guide">User-Guide</h1>
-<ul> 
- <li><b>Landing</b></li>
- Link:<a href="http://simply-savory.meteorapp.com/#/">Click Here</a>
+Simply Savory has many different pages to help serve the UH community, this section provides a walkthrough of the user interface and its capabilities.
+
+
+ <h3>Landing</h3>
  <img width="800" height="500" src="images/landing-mockup.PNG">
+ This<a href="http://simply-savory.meteorapp.com/#/">page</a>is what users will see when initially visitng the site, it explains the purpose of simply savory, and shows some popular recipes.
  
- <li><b>User Home Page (Your Recipes)</b></li>
- Link:<a href="http://simply-savory.meteorapp.com/#/myrecipe">Click Here</a>
+ <h3>User Home Page (Your Recipes)</h3>
  <img width="800" height="500" src="images/Mockups/MyRecipe1.jpg">
+This<a href="http://simply-savory.meteorapp.com/#/myrecipe">page</a> is the user's "recipe book" containg recipes that they have posted, along with recipes from other users that they have saved.
  
  <li><b>Account Creation/Sign In</b> </li>
  Link:<a href="http://simply-savory.meteorapp.com/#/signup">Click Here</a>
