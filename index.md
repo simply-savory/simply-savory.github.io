@@ -52,6 +52,7 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
 This section will be updated after Milestone 2, when testing is done with UH students to gather feedback for further improvements & revisions.
 
 <h1 id="#developer-guide">Developer Guide</h1>
+The developer guide will be updated in milestone 3 when a more concrete version of Simply Savory is available.
 
 <h1 id="dev-history">Development History</h1>
  <h3> Milestone 1</h3>
