@@ -1,4 +1,4 @@
- <img width="800" height="500" src="images/simply-savory-logo.png">
+ <img width="1200" height="500" src="images/simply-savory-logo.png">
 
 # Table of Contents
 <ul>
