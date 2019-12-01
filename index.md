@@ -1,4 +1,4 @@
- <img width="1500" height="300" src="images/simply-savory-logo.png">
+ <img width="1500" height="250" src="images/simply-savory-logo.png">
 
 # Table of Contents
 <ul>
@@ -12,11 +12,11 @@
  </ul>
   
  
-<h1 id="#overview">Overview</h1>
+<h1 id="overview">Overview</h1>
 Simply Savory is a web application that provides a centralized site for UH Manoa students to learn and share affordable recipes that can be prepared with minimal kitchen facilities (both on and off campus) to suit local taste sensibilities. Users will be able to browse posted recipes, search and filter by specific ingredients, and save recipes to their personal "cookbook". Recipes will have additional information that is useful for students on a budget, such as price per serving, and ingredient sales at nearby supermarkets. 
 
 
-<h1 id="#user-guide">User-Guide</h1>
+<h1 id="user-guide">User-Guide</h1>
 Simply Savory has many different pages to help serve the UH community, this section provides a walkthrough of the user interface and its capabilities.
 
 
@@ -48,10 +48,10 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
    <img width="800" height="500" src="images/Mockups/RecipePage.jpg">
    This<a href="http://simply-savory.meteorapp.com/#/Recipe"> page </a> displays information about a single recipe, and is accessed by clicking on a recipe card on any page that it appears. 
  
-<h1 id="#community-feedback">Community Feedback</h1>
+<h1 id="community-feedback">Community Feedback</h1>
 This section will be updated after Milestone 2, when testing is done with UH students to gather feedback for further improvements & revisions.
 
-<h1 id="#developer-guide">Developer Guide</h1>
+<h1 id="developer-guide">Developer Guide</h1>
 The developer guide will be updated in milestone 3 when a more concrete version of Simply Savory is available.
 
 <h1 id="dev-history">Development History</h1>
@@ -74,7 +74,7 @@ The developer guide will be updated in milestone 3 when a more concrete version 
  <li>Account mapping to cards</li>
  </ul>
  
-<h1 id="#links">Links</h1>
+<h1 id="links">Links</h1>
 <ul>
   <li><a href="https://github.com/simply-savory">Simply Savory Organization Page</a></li>
   <li><a href="http://simply-savory.meteorapp.com/#/">Deployment on Galaxy</a></li>
@@ -82,7 +82,7 @@ The developer guide will be updated in milestone 3 when a more concrete version 
   <li><a href="https://github.com/simply-savory/simply-savory/projects/2">Milestone 2</a></li>
 </ul>
 
-<h1 id="#team">The Team </h1>
+<h1 id="team">The Team </h1>
 <ul>
  <li><a href="https://aujared.github.io/">Jared Au</a> </li>
  <li><a href="https://nchu277.github.io/">Nate Chu</a> </li> 
