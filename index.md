@@ -29,7 +29,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
 This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the user's "recipe book" containg recipes that they have posted, along with recipes from other users that they have saved.
  
  <h3>Account Creation/Sign In</h3>
-  <img width="800" height="550" src="images/Mockups/Register.png">
+  <img width="800" height="550" src="images/UpdatedPages/updatedAccountCreation.PNG">
  This<a href="http://simply-savory.meteorapp.com/#/signup"> page </a> is where the user can sign in, or create an account to start sharing recipes.
   
  <h3>Add Recipes</h3>
