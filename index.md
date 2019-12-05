@@ -49,7 +49,7 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
    This<a href="http://simply-savory.meteorapp.com/#/Recipe"> page </a> displays information about a single recipe, and is accessed by clicking on a recipe card on any page that it appears. 
  
 <h1 id="community-feedback">Community Feedback</h1>
-This section will be updated after Milestone 2, when testing is done with UH students to gather feedback for further improvements & revisions.
+This section will be updated during Milestone 3, when testing is done with UH students to gather feedback for further improvements & revisions.
 
 <h1 id="developer-guide">Developer Guide</h1>
 The developer guide will be updated in milestone 3 when a more concrete version of Simply Savory is available.
@@ -67,11 +67,15 @@ The developer guide will be updated in milestone 3 when a more concrete version 
  <h3> Milestone 2 </h3>
  In Milestone 2, the following tasks were accomplished:
   <ul>
+  <li>Github.io Redesign</li>
  <li>Database setup</li>
  <li>Cards updating from sample data</li>
  <li>Search based on meta info</li>
  <li>Input method to database via forms</li>
  <li>Account mapping to cards</li>
+  <li>Like button functionality</li>
+  <li></li>
+ 
  </ul>
  
 <h1 id="links">Links</h1>
