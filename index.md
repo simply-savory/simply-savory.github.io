@@ -54,20 +54,26 @@ This section will be updated during Milestone 3, when testing is done with UH st
 <h1 id="developer-guide">Developer Guide</h1>
 Here is a short guide on how to run simply savory on your local machine.
 
+<h3> Initialization </h3>
+
 First clone the github repo at https://github.com/simply-savory/simply-savory
 
 Next use a terminal to navigate to simply-savory/app directory and run the following command:
+</br>
 
 ```meteor npm install```
+
+<h3>Running The App </h3>
 
 All the files and pre-requisites should now be installed
 
 Run the app using the following command:
+</br>
 ```meteor npm run start```
 
 This will start up the app and create the mongo database with sample data and user accounts
 
-If the app was installed correctly, you will be able to view the application at http://localhost:3000/ , login credentials can be found in the settings.development.json file.
+If the app was installed correctly, you will be able to view the application at http://localhost:3000/ login credentials can be found in the settings.development.json file.
 
 <h1 id="dev-history">Development History</h1>
  <h3> Milestone 1</h3>
