@@ -74,7 +74,7 @@ The developer guide will be updated in milestone 3 when a more concrete version 
  <li>Input method to database via forms</li>
  <li>Account mapping to cards</li>
   <li>Like button functionality</li>
-  <li></li>
+  <li>Card Formatting & Front End Design</li>
  
  </ul>
  
