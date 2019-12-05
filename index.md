@@ -25,7 +25,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
  This<a href="http://simply-savory.meteorapp.com/#/"> page </a>is what users will see when initially visitng the site, it explains the purpose of simply savory, and shows some popular recipes.
  
  <h3>User Home Page (Your Recipes)</h3>
- <img width="800" height="500" src="images/UpdatedPages/UpdatedMyRec.jpgg">
+ <img width="800" height="500" src="images/UpdatedPages/UpdatedMyRec.jpg">
 This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the user's "recipe book" containg recipes that they have posted, along with recipes from other users that they have saved.
  
  <h3>Account Creation/Sign In</h3>
