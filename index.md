@@ -21,11 +21,11 @@ Simply Savory has many different pages to help serve the UH community, this sect
 
 
  <h3>Landing</h3>
- <img width="800" height="500" src="images/landing-mockup.PNG">
+ <img width="800" height="500" src="images/UpdatedPages/UpdatedLanding.jpg">
  This<a href="http://simply-savory.meteorapp.com/#/"> page </a>is what users will see when initially visitng the site, it explains the purpose of simply savory, and shows some popular recipes.
  
  <h3>User Home Page (Your Recipes)</h3>
- <img width="800" height="500" src="images/Mockups/MyRecipe1.jpg">
+ <img width="800" height="500" src="images/UpdatedPages/UpdatedMyRec.jpgg">
 This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the user's "recipe book" containg recipes that they have posted, along with recipes from other users that they have saved.
  
  <h3>Account Creation/Sign In</h3>
@@ -33,11 +33,11 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
  This<a href="http://simply-savory.meteorapp.com/#/signup"> page </a> is where the user can sign in, or create an account to start sharing recipes.
   
  <h3>Add Recipes</h3>
-  <img width="800" height="550" src="images/Mockups/AddRecipe.png">
+  <img width="800" height="550" src="images/UpdatedPages/UpdatedAdd.png">
   This<a href="http://simply-savory.meteorapp.com/#/add"> page </a> is the interface for adding recipes, allowing the user to input various paramters such as ingredients directions, and an image of the finished dish.
   
  <h3>Discover New Recipes</h3> 
- <img width="800" height="500" src="images/Mockups/Discover Recipes.jpg">
+ <img width="800" height="500" src="images/UpdatedPages/UpdatedDiscover.jpg">
  This<a href="http://simply-savory.meteorapp.com/#/Discover"> page </a> is where recently listed recipes are displayed along with the most popular recipes (rated by other users).
  
  <h3>Search Recipes </h3>
@@ -45,7 +45,7 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
   This<a href="http://simply-savory.meteorapp.com/#/Search"> page </a> shows the results of a user search, filtering all recipes on the database using meta tags like "egg".
  
  <h3>Individual Recipes Page</h3>
-   <img width="800" height="500" src="images/Mockups/RecipePage.jpg">
+   <img width="800" height="500" src="images/UpdatedPages/UpdatedIndiv.jpg">
    This<a href="http://simply-savory.meteorapp.com/#/Recipe"> page </a> displays information about a single recipe, and is accessed by clicking on a recipe card on any page that it appears. 
  
 <h1 id="community-feedback">Community Feedback</h1>
