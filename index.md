@@ -80,6 +80,7 @@ The developer guide will be updated in milestone 3 when a more concrete version 
   <li><a href="http://simply-savory.meteorapp.com/#/">Deployment on Galaxy</a></li>
   <li><a href="https://github.com/simply-savory/simply-savory/projects/1">Milestone 1</a></li>
   <li><a href="https://github.com/simply-savory/simply-savory/projects/2">Milestone 2</a></li>
+  <li><a href="https://github.com/simply-savory/simply-savory/projects/3">Milestone 3</a></li>
 </ul>
 
 <h1 id="team">The Team </h1>
