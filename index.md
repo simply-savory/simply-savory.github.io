@@ -59,7 +59,7 @@ Here is a short guide on how to run simply savory on your local machine.
 First clone the github repo at https://github.com/simply-savory/simply-savory
 
 Next use a terminal to navigate to simply-savory/app directory and run the following command:
-</br>
+<br>
 
 ```meteor npm install```
 
@@ -68,7 +68,7 @@ Next use a terminal to navigate to simply-savory/app directory and run the follo
 All the files and pre-requisites should now be installed
 
 Run the app using the following command:
-</br>
+<br>
 ```meteor npm run start```
 
 This will start up the app and create the mongo database with sample data and user accounts
