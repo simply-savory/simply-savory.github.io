@@ -41,8 +41,8 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
  This<a href="http://simply-savory.meteorapp.com/#/Discover"> page </a> is where recently listed recipes are displayed along with the most popular recipes (rated by other users).
  
  <h3>Search Recipes </h3>
- <img width="800" height="500" src="images/Mockups/FixedSearch.png">
-  This<a href="http://simply-savory.meteorapp.com/#/Search"> page </a> shows the results of a user search, filtering all recipes on the database using meta tags like "egg".
+ <img width="800" height="500" src="images/UpdatedPages/UpdatedSearch.jpg">
+  This<a href="http://simply-savory.meteorapp.com/#/Search"> page </a> shows the results of a user search, filtering all recipes on the database using meta tags like "oil".
  
  <h3>Individual Recipes Page</h3>
    <img width="800" height="500" src="images/UpdatedPages/UpdatedIndiv.jpg">
