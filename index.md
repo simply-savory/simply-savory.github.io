@@ -23,28 +23,32 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <h3>Landing</h3>
  <img width="800" height="500" src="images/UpdatedPages/UpdatedLanding.jpg">
  When you first visit the site, you are taken here to the landing page. It provides an introduction about what simply savory is, and how to get started with registering an account and posting recipes. While not signed in, you will only be able to access the discover recipes tab, help tab, and be able to sign up for a new account or log in via the top right drop down.
+  
+  <h3>Account Creation/Sign In</h3>
+  <img width="800" height="550" src="images/UpdatedPages/updatedAccountCreation.PNG">
+ Clicking Sign-Up on the login dropdown will bring you to this page. Here you can enter some general information such as your email address, password, first name and last name. Users can also indicate if they are a vendor, meaning they would like to advertise deals on ingredients (this account type is still able to post & view recipes).
+  
+ <h3>The Recipe Card</h3>
+ Here you can see the information displayed on a recipe card, this card is utilized on several pages, including "Discover Recipes" "My Recipes" and "My Favorites". The card provides a preview into the recipe that it pertains to, including title, author name, ingredients, and a picture. The bottom of the card has 2 buttons initially, a heart which likes and favorites the recipe, and view, which will open up the full recipe on a new page. If you are logged in, and are the poster of the recipe, you will have a edit button that opens up a page allowing you to change the recipe information.
  
  <h3>Discover Recipes</h3>
  <img width="800" height="500" src="images/UpdatedPages/UpdatedMyRec.jpg">
  The discover recipes page can be accessed via the navbar by all users regardless of whether or not they have an account. This page displays recipe cards, showing the newest recipes first, and has a search bar for users to filter recipes. The search bar will search both the title and ingredients list for the search keywords. After searching, the user can click reset serach criteria to return to the original display.
- 
- <h3>Account Creation/Sign In</h3>
-  <img width="800" height="550" src="images/UpdatedPages/updatedAccountCreation.PNG">
- Clicking Sign-Up on the login dropdown will bring you to this page. Here you can enter some general information such as your email address, password, first name and last name. Users can also indicate if they are a vendor, meaning they would like to advertise deals on ingredients (this account type is still able to post & view recipes).
-  
+
  <h3>Add Recipes</h3>
   <img width="800" height="550" src="images/UpdatedPages/UpdatedAdd.png">
- The add recipes page is a form with a number of fields that the user must fill out to share their recipes. The instructions and ingredients fields have alot of flexibility, the information inserted here will be seperated based on line breaks. 
- <h3>My Recipes</h3> 
+ The add recipes page is a form with a number of fields for the user to fill out, these will help us populate the recipe cards that provide a short preview of the recipe, as well as the recipe page which will include all of this information in-depth. The formatting of the instruction and ingredients fields will be preserved assuming that the user makes use of the line break character (pressing enter on the keyboard)
+
+<h3>My Recipes</h3> 
  <img width="800" height="500" src="images/UpdatedPages/UpdatedDiscover.jpg">
- This<a href="http://simply-savory.meteorapp.com/#/Discover"> page </a> is where recently listed recipes are displayed along with the most popular recipes (rated by other users).
+ The My Recipes page displays all recipes that the user posts, if they have not made any posts yet, a message will be displayed saying "No Recipes Found". The same search bar from discover recipes is implemented here, allowing users to search recipes by ingredients
  
  <h3>My Favorites</h3>
+ The My Favorites page will display any recipes that you have liked (clicked the heart), rendering the same card information that was displayed when you favorited it on the landing page or discover recipes. 
  
- 
- <h3>Individual Recipes Page</h3>
-   <img width="800" height="500" src="images/UpdatedPages/UpdatedIndiv.jpg">
-   This<a href="http://simply-savory.meteorapp.com/#/Recipe"> page </a> displays information about a single recipe, and is accessed by clicking on a recipe card on any page that it appears. 
+ <h3>Display Recipe</h3>
+ <img width="800" height="500" src="images/UpdatedPages/UpdatedIndiv.jpg">
+  This is the page that the user is brought to after clicking "View" on the bottom of any recipe card. As previously mentioned, these cards are rendered on Landing, Discover Recipes, My Recipes and My Favorites
  
 <h1 id="community-feedback">Community Feedback</h1>
 <b>Kayli Chun: UH Manoa Mechanical Engineering Student</b>
@@ -122,9 +126,10 @@ You may need to request permission from the authors in order to access the repo.
  </p>
   </li>
   <li>If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a> or create your own by .</li>
+ <li>To make changes to the system or recommend features, please open a issue via github <a href="https://github.com/simply-savory/simply-savory/issues">here</a> and create your own branch with the name as "issue-xxx" where the xxx is replaced with the issue number</li>
+ <li>If you have implemented a change that you believe should be included in the main project, please create a pull request where we will review the change and approve it after verification.</li>
 </ol>
 
-<
 <h1 id="dev-history">Development History</h1>
  <h3> Milestone 1</h3>
  In Milestone 1, the following tasks were accomplished:
