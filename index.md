@@ -49,7 +49,49 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
    This<a href="http://simply-savory.meteorapp.com/#/Recipe"> page </a> displays information about a single recipe, and is accessed by clicking on a recipe card on any page that it appears. 
  
 <h1 id="community-feedback">Community Feedback</h1>
-This section will be updated during Milestone 3, when testing is done with UH students to gather feedback for further improvements & revisions.
+<b>Kayli Chun: UH Manoa Mechanical Engineering Student</b>
+ Suggestions/Comments:
+ <ul>
+ <li>Add links to login/signup landing explaination </li>
+ <li>General grammar editing on landing page, periods, apostrophes etc </li>
+ <li>Verify password on account creation page </li>
+ <li>Show a no recipes found message for empty search results </li>
+ <li>Pop up to verify recipe deletion </li>
+ </ul>
+ 
+ <b>Huy Nguyen: UH Manoa Electrical Engineering Student</b>
+ Suggestions/Comments:
+ <ul>
+ <li>Aspect ratio on preview thumbnails is a bit off </li>
+ <li>Straight forward and easy to use </li>
+ <li>Add bullet points to the cards for ingredients </li>
+ </ul>
+ 
+ <b>Radford Leong: UH Manoa MIS Student</b>
+ Suggestions/Comments:
+ <ul>
+ <li>Add hyperlinks to things on the landing and help page </li>
+ <li>More cards per row? Instead of just 3 </li>
+ <li>Change My Recipe to My Recipes </li>
+ <li>Need a page to edit account </li>
+ <li>Change formatting of the Initial Help Page, looks weird to have all text left justified </li>
+ <li>Return back to my recipe page after submitting an edit </li>
+ </ul>
+ 
+ <b>Spencer Lau: UH Manoa Law Student</b>
+ Suggestions/Comments:
+ <ul>
+ <li>More vivid color scheme for navbar </li>
+ <li>Add darker borders to cards to make them pop more </li>
+ </ul>
+ 
+ <b>Carissa Nakao: UH Manoa Electircal Engineering Student </b>
+ Suggestions/Comments:
+ <ul>
+ <li>Cool sleek design </li>
+ <li>Add ability to search more than one ingreidient </li>
+ <li>Change formatting in tab to be Simply-Savory (capitalize second S) </li>
+ </ul>
 
 <h1 id="developer-guide">Developer Guide</h1>
 <h3 id="installation">Installation</h3>
@@ -84,11 +126,7 @@ You may need to request permission from the authors in order to access the repo.
   <li>If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a> or create your own by .</li>
 </ol>
 
-<p>7.You can also use ESLint in the imports directory to check for general errors by using:
-      <code>
-        meteor npm run lint
-      </code></p>
-
+<
 <h1 id="dev-history">Development History</h1>
  <h3> Milestone 1</h3>
  In Milestone 1, the following tasks were accomplished:
