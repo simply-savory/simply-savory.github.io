@@ -22,27 +22,25 @@ Simply Savory has many different pages to help serve the UH community, this sect
 
  <h3>Landing</h3>
  <img width="800" height="500" src="images/UpdatedPages/UpdatedLanding.jpg">
- This<a href="http://simply-savory.meteorapp.com/#/"> page </a>is what users will see when initially visitng the site, it explains the purpose of simply savory, and shows some popular recipes.
+ When you first visit the site, you are taken here to the landing page. It provides an introduction about what simply savory is, and how to get started with registering an account and posting recipes. While not signed in, you will only be able to access the discover recipes tab, help tab, and be able to sign up for a new account or log in via the top right drop down.
  
- <h3>User Home Page (Your Recipes)</h3>
+ <h3>Discover Recipes</h3>
  <img width="800" height="500" src="images/UpdatedPages/UpdatedMyRec.jpg">
-This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the user's "recipe book" containg recipes that they have posted, along with recipes from other users that they have saved.
+ The discover recipes page can be accessed via the navbar by all users regardless of whether or not they have an account. This page displays recipe cards, showing the newest recipes first, and has a search bar for users to filter recipes. The search bar will search both the title and ingredients list for the search keywords. After searching, the user can click reset serach criteria to return to the original display.
  
  <h3>Account Creation/Sign In</h3>
   <img width="800" height="550" src="images/UpdatedPages/updatedAccountCreation.PNG">
- This<a href="http://simply-savory.meteorapp.com/#/signup"> page </a> is where the user can sign in, or create an account to start sharing recipes.
+ Clicking Sign-Up on the login dropdown will bring you to this page. Here you can enter some general information such as your email address, password, first name and last name. Users can also indicate if they are a vendor, meaning they would like to advertise deals on ingredients (this account type is still able to post & view recipes).
   
  <h3>Add Recipes</h3>
   <img width="800" height="550" src="images/UpdatedPages/UpdatedAdd.png">
-  This<a href="http://simply-savory.meteorapp.com/#/add"> page </a> is the interface for adding recipes, allowing the user to input various paramters such as ingredients directions, and an image of the finished dish.
-  
- <h3>Discover New Recipes</h3> 
+ The add recipes page is a form with a number of fields that the user must fill out to share their recipes. The instructions and ingredients fields have alot of flexibility, the information inserted here will be seperated based on line breaks. 
+ <h3>My Recipes</h3> 
  <img width="800" height="500" src="images/UpdatedPages/UpdatedDiscover.jpg">
  This<a href="http://simply-savory.meteorapp.com/#/Discover"> page </a> is where recently listed recipes are displayed along with the most popular recipes (rated by other users).
  
- <h3>Search Recipes </h3>
- <img width="800" height="500" src="images/UpdatedPages/UpdatedSearch.jpg">
-  This<a href="http://simply-savory.meteorapp.com/#/Search"> page </a> shows the results of a user search, filtering all recipes on the database using meta tags like "oil".
+ <h3>My Favorites</h3>
+ 
  
  <h3>Individual Recipes Page</h3>
    <img width="800" height="500" src="images/UpdatedPages/UpdatedIndiv.jpg">
@@ -148,7 +146,17 @@ You may need to request permission from the authors in order to access the repo.
  <li>Account mapping to cards</li>
   <li>Like button functionality</li>
   <li>Card Formatting & Front End Design</li>
- 
+ <h3> Milestone 3 </h3>
+ In Milestone 3, the following tasks were accomplished:
+  <ul>
+  <li>Completed Github.io page</li>
+ <li>Likes & Favoriting System implemented</li>
+ <li>Editing Recipes</li>
+ <li>Displaying User First & Last Name on Reviews & Recipes</li>
+ <li>Improved Search & Filter Functions </li>
+  <li>Created more publications for different login statuses </li>
+  <li>Implemented suggestions from community feedback </li>
+  <li>Expanded sample data</li>
  </ul>
  
 <h1 id="links">Links</h1>
