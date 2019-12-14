@@ -52,28 +52,44 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
 This section will be updated during Milestone 3, when testing is done with UH students to gather feedback for further improvements & revisions.
 
 <h1 id="developer-guide">Developer Guide</h1>
-Here is a short guide on how to run simply savory on your local machine.
+<h2 id="developer-guide">Developer Guide</h2>
 
-<h3> Initialization </h3>
+<h3 id="installation">Installation</h3>
 
-First clone the github repo at https://github.com/simply-savory/simply-savory
+<p>The following steps will walk you through installing and running the application locally.</p>
+<ol>
+  <li>
+    <p>In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a></p>
+  </li>
+  <li>
+    <p>Next, you will need to <a href="https://github.com/manoastudyhub/code-directory">download</a> a copy of Manoa Study Hub.
+You should note that you may need to request permission from the authors in order to access the repo.</p>
+  </li>
+  <li>Then, in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows:
+    <p>
+   <code> meteor npm install </code>
+ </p>
+  </li>
+  <li>After Meteor has been installed, you can then run the application by using:
+    <p>
+   <code>meteor npm run start</code>
+ </p>
+  </li>
+  <li>After the app runs for the first time, it will create some default data and users. The output should look as follows:
+    <p>
+   <img src="/images/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315" />
+ </p>
+    <p>
+   *It is important to note that there is a <b>bcrypt warning</b> which will try to encourage you to use bcrypt. However it is difficult to install bcrypt with Windows operating systems. Bcrypt is unneccesary for the purposes that we are using for so it is okay to just ignore this warning, it will not interfere with the use of the application.
+ </p>
+  </li>
+  <li>If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a>.</li>
+</ol>
 
-Next use a terminal to navigate to simply-savory/app directory and run the following command:
-<br>
-
-```meteor npm install```
-
-<h3>Running The App </h3>
-
-All the files and pre-requisites should now be installed
-
-Run the app using the following command:
-<br>
-```meteor npm run start```
-
-This will start up the app and create the mongo database with sample data and user accounts
-
-If the app was installed correctly, you will be able to view the application at http://localhost:3000/ login credentials can be found in the settings.development.json file.
+<p>7.You can also use ESLint in the imports directory to check for general errors by using:
+      <code>
+        meteor npm run lint
+      </code></p>
 
 <h1 id="dev-history">Development History</h1>
  <h3> Milestone 1</h3>
