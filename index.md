@@ -52,8 +52,6 @@ This<a href="http://simply-savory.meteorapp.com/#/myrecipe"> page </a> is the us
 This section will be updated during Milestone 3, when testing is done with UH students to gather feedback for further improvements & revisions.
 
 <h1 id="developer-guide">Developer Guide</h1>
-<h2 id="developer-guide">Developer Guide</h2>
-
 <h3 id="installation">Installation</h3>
 
 <p>The following steps will walk you through installing and running the application locally.</p>
@@ -62,10 +60,10 @@ This section will be updated during Milestone 3, when testing is done with UH st
     <p>In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a></p>
   </li>
   <li>
-    <p>Next, you will need to <a href="https://github.com/manoastudyhub/code-directory">download</a> a copy of Manoa Study Hub.
-You should note that you may need to request permission from the authors in order to access the repo.</p>
+    <p>Next, you will need to <a href="https://github.com/simply-savory/simply-savory">download</a> a copy of Simply Savory to your local machine.
+You may need to request permission from the authors in order to access the repo.</p>
   </li>
-  <li>Then, in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows:
+  <li>Then, using a terminal or the command prompt you will need to navigate into the /app directory and install the Meteor library as follows:
     <p>
    <code> meteor npm install </code>
  </p>
@@ -77,13 +75,13 @@ You should note that you may need to request permission from the authors in orde
   </li>
   <li>After the app runs for the first time, it will create some default data and users. The output should look as follows:
     <p>
-   <img src="/images/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315" />
+   <img src="images/firstrun.jpg" alt="meteor first run image" width="470" height="315" />
  </p>
     <p>
-   *It is important to note that there is a <b>bcrypt warning</b> which will try to encourage you to use bcrypt. However it is difficult to install bcrypt with Windows operating systems. Bcrypt is unneccesary for the purposes that we are using for so it is okay to just ignore this warning, it will not interfere with the use of the application.
+   There is a bcrypt warning, but we will not need it for our application
  </p>
   </li>
-  <li>If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a>.</li>
+  <li>If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a> or create your own by .</li>
 </ol>
 
 <p>7.You can also use ESLint in the imports directory to check for general errors by using:
