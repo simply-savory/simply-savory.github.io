@@ -131,19 +131,19 @@ You may need to request permission from the authors in order to access the repo.
 </ol>
 
 <h1 id="dev-history">Development History</h1>
- <h3> Milestone 1</h3>
- In Milestone 1, the following tasks were accomplished:
- <ul>
+<h3> Milestone 1</h3>
+In Milestone 1, the following tasks were accomplished:
+<ul>
  <li>Mockups for all 8 pages</li>
  <li>Galaxy Deployment </li>
  <li>Github.io initial creation </li>
  <li>Navbar created & search bar </li>
  <li>App routing & linking </li>
- </ul>
- <h3> Milestone 2 </h3>
- In Milestone 2, the following tasks were accomplished:
-  <ul>
-  <li>Github.io Redesign</li>
+</ul>
+<h3> Milestone 2 </h3>
+In Milestone 2, the following tasks were accomplished:
+<ul>
+ <li>Github.io Redesign</li>
  <li>Database setup</li>
  <li>Cards updating from sample data</li>
  <li>Search based on meta info</li>
@@ -162,15 +162,15 @@ In Milestone 3, the following tasks were accomplished:
  <li>Created more publications for different login statuses </li>
  <li>Implemented suggestions from community feedback </li>
  <li>Expanded sample data</li>
- </ul>
+</ul>
  
 <h1 id="links">Links</h1>
 <ul>
-  <li><a href="https://github.com/simply-savory">Simply Savory Organization Page</a></li>
-  <li><a href="http://simply-savory.meteorapp.com/#/">Deployment on Galaxy</a></li>
-  <li><a href="https://github.com/simply-savory/simply-savory/projects/1">Milestone 1</a></li>
-  <li><a href="https://github.com/simply-savory/simply-savory/projects/2">Milestone 2</a></li>
-  <li><a href="https://github.com/simply-savory/simply-savory/projects/3">Milestone 3</a></li>
+ <li><a href="https://github.com/simply-savory">Simply Savory Organization Page</a></li>
+ <li><a href="http://simply-savory.meteorapp.com/#/">Deployment on Galaxy</a></li>
+ <li><a href="https://github.com/simply-savory/simply-savory/projects/1">Milestone 1</a></li>
+ <li><a href="https://github.com/simply-savory/simply-savory/projects/2">Milestone 2</a></li>
+ <li><a href="https://github.com/simply-savory/simply-savory/projects/3">Milestone 3</a></li>
 </ul>
 
 <h1 id="team">The Team </h1>
@@ -179,4 +179,4 @@ In Milestone 3, the following tasks were accomplished:
  <li><a href="https://nchu277.github.io/">Nate Chu</a> </li> 
  <li><a href="https://tosuzu1.github.io/">Felix Hong</a> </li> 
  <li><a href="https://kade-shiro.github.io/">Kade Shiroma</a> </li> 
- </ul>
+</ul>
