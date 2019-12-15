@@ -151,6 +151,7 @@ In Milestone 2, the following tasks were accomplished:
  <li>Account mapping to cards</li>
  <li>Like button functionality</li>
  <li>Card Formatting & Front End Design</li>
+ </ul>
 <h3> Milestone 3 </h3>
 In Milestone 3, the following tasks were accomplished:
 <ul>
