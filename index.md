@@ -152,9 +152,9 @@ You may need to request permission from the authors in order to access the repo.
   <li>Like button functionality</li>
   <li>Card Formatting & Front End Design</li>
  <h3> Milestone 3 </h3>
- In Milestone 3, the following tasks were accomplished:
-  <ul>
-  <li>Completed Github.io page</li>
+In Milestone 3, the following tasks were accomplished:
+<ul>
+ <li>Completed Github.io page</li>
  <li>Likes & Favoriting System implemented</li>
  <li>Editing Recipes</li>
  <li>Displaying User First & Last Name on Reviews & Recipes</li>
