@@ -103,7 +103,7 @@ Halfway in between Milestone 2 and 3 we achieved what we considered to be a Mile
 
 After this we decided to work on Vendors as an additional improvement, this proved to be much more difficult than we planned as we had designed the infrastructure of our project in a peculiar way. With all the inter-linking between recipes, accounts, cards and components we soon realized that implementing: A vendor account type, vendor page for posting deals, and displaying deals would be much more work than we anticipated. We would essentially need to redo most of our previous work as we encountered issues sharing account information between client and server.
 
-* Nate Add Your Paragraph Here*
+We were able to get a working vendor implementation of having a vendor account type, a vendor page for posting deals, and displaying deals working only with default data, but it posed an issue when trying to create that account on the client side. This was due to a security risk where adding roles to account creation could only be done on the server side. The only solution we had to this issue would have been to redo how we handled a lot of the client data used for account creation.
 
 In the end we came together as a group and discussed how to proceed. We ended up deciding not to include anything pertaining to Vendor, as we felt that it would detract from the quality of the rest of the project if we had a few pages and components that were not up to our standards. We had a draft for a vendor deals page that displayed posted deals in a table similar to "List Stuff", but this was certainly not Milestone 3 level, and due to time constraints we would not have enough time to bring all vendor components and pages up to a similar level of quality as the rest of the site.
 
