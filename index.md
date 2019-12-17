@@ -22,7 +22,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
 
 
  <h3>Landing</h3>
- <img size="large" src="images/ScreenShotUpdates/Landing.png">
+ <img size="huge" src="images/ScreenShotUpdates/Landing.png">
  When you first visit the site, you are taken here to the landing page. It provides an introduction about what simply savory is, and how to get started with registering an account and posting recipes. While not signed in, you will only be able to access the discover recipes tab, help tab, and be able to sign up for a new account or log in via the top right drop down.
   
   <h3>Account Creation/Sign In</h3>
