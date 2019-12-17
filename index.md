@@ -43,11 +43,11 @@ Simply Savory has many different pages to help serve the UH community, this sect
  The add recipes page is a form with a number of fields for the user to fill out, these will help us populate the recipe cards that provide a short preview of the recipe, as well as the recipe page which will include all of this information in-depth. The formatting of the instruction and ingredients fields will be preserved assuming that the user makes use of the line break character (pressing enter on the keyboard)
 
 <h3>My Recipes</h3> 
- <img width="900" height="400" src="images/ScreenShotUpdates/MyRecipe.png">
+ <img width="900" height="450" src="images/ScreenShotUpdates/MyRecipe.png">
  The My Recipes page displays all recipes that the user posts, if they have not made any posts yet, a message will be displayed saying "No Recipes Found". The same search bar from discover recipes is implemented here, allowing users to search recipes by ingredients
  
  <h3>My Favorites</h3>
- <img width="900" height="500" src="images/ScreenShotUpdates/Favorites.png">
+ <img width="900" height="450" src="images/ScreenShotUpdates/Favorites.png">
  The My Favorites page will display any recipes that you have liked (clicked the heart), rendering the same card information that was displayed when you favorited it on the landing page or discover recipes. 
  
  <h3>Display Recipe</h3>
