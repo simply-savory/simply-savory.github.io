@@ -22,34 +22,40 @@ Simply Savory has many different pages to help serve the UH community, this sect
 
 
  <h3>Landing</h3>
- <img width="800" height="500" src="images/UpdatedPages/UpdatedLanding.jpg">
+ <img width="800" height="500" src="images/ScreenShotUpdates/Landing.png">
  When you first visit the site, you are taken here to the landing page. It provides an introduction about what simply savory is, and how to get started with registering an account and posting recipes. While not signed in, you will only be able to access the discover recipes tab, help tab, and be able to sign up for a new account or log in via the top right drop down.
   
   <h3>Account Creation/Sign In</h3>
-  <img width="800" height="550" src="images/UpdatedPages/updatedAccountCreation.PNG">
+  <img width="800" height="550" src="images/ScreenShotUpdates/SignUp.png">
  Clicking Sign-Up on the login dropdown will bring you to this page. Here you can enter some general information such as your email address, password, first name and last name. Users can also indicate if they are a vendor, meaning they would like to advertise deals on ingredients (this account type is still able to post & view recipes).
   
  <h3>The Recipe Card</h3>
+ <img width="200" height="550" src="images/ScreenShotUpdates/Card.png">
  Here you can see the information displayed on a recipe card, this card is utilized on several pages, including "Discover Recipes" "My Recipes" and "My Favorites". The card provides a preview into the recipe that it pertains to, including title, author name, ingredients, and a picture. The bottom of the card has 2 buttons initially, a heart which likes and favorites the recipe, and view, which will open up the full recipe on a new page. If you are logged in, and are the poster of the recipe, you will have a edit button that opens up a page allowing you to change the recipe information.
  
  <h3>Discover Recipes</h3>
- <img width="800" height="500" src="images/UpdatedPages/UpdatedMyRec.jpg">
+ <img width="800" height="500" src="images/ScreenShotUpdates/Discover.png">
  The discover recipes page can be accessed via the navbar by all users regardless of whether or not they have an account. This page displays recipe cards, showing the newest recipes first, and has a search bar for users to filter recipes. The search bar will search both the title and ingredients list for the search keywords. After searching, the user can click reset serach criteria to return to the original display.
 
  <h3>Add Recipes</h3>
-  <img width="800" height="550" src="images/UpdatedPages/UpdatedAdd.png">
+  <img width="800" height="550" src="images/ScreenShotUpdates/Add.png">
  The add recipes page is a form with a number of fields for the user to fill out, these will help us populate the recipe cards that provide a short preview of the recipe, as well as the recipe page which will include all of this information in-depth. The formatting of the instruction and ingredients fields will be preserved assuming that the user makes use of the line break character (pressing enter on the keyboard)
 
 <h3>My Recipes</h3> 
- <img width="800" height="500" src="images/UpdatedPages/UpdatedDiscover.jpg">
+ <img width="800" height="500" src="images/ScreenShotUpdates/MyRecipe.png">
  The My Recipes page displays all recipes that the user posts, if they have not made any posts yet, a message will be displayed saying "No Recipes Found". The same search bar from discover recipes is implemented here, allowing users to search recipes by ingredients
  
  <h3>My Favorites</h3>
+ <img width="800" height="500" src="images/ScreenShotUpdates/Favorites.png">
  The My Favorites page will display any recipes that you have liked (clicked the heart), rendering the same card information that was displayed when you favorited it on the landing page or discover recipes. 
  
  <h3>Display Recipe</h3>
- <img width="800" height="500" src="images/UpdatedPages/UpdatedIndiv.jpg">
+ <img width="800" height="500" src="images/ScreenShotUpdates/Individual Recipe.png">
   This is the page that the user is brought to after clicking "View" on the bottom of any recipe card. As previously mentioned, these cards are rendered on Landing, Discover Recipes, My Recipes and My Favorites
+ 
+ <h3> Reviews </h3>
+ <img width="800" height="250" src="images/ScreenShotUpdates/Review.png">
+ At the bottom of each recipe page, there is a feed displaying reviews left by users, showing the name of the user with the message.
  
 <h1 id="community-feedback">Community Feedback</h1>
 <b>Kayli Chun: UH Manoa Mechanical Engineering Student</b>
