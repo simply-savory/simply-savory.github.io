@@ -5,6 +5,7 @@
  <li><a href="#overview">Overview</a></li>
   <li><a href="#user-guide">User Guide</a></li>
  <li><a href="#community-feedback">Community Feedback</a></li>
+  <li><a href="#challenges">Challenges</a></li>
  <li><a href="#developer-guide">Developer Guide</a></li>
  <li><a href="#links">Links</a> </li>
  <li><a href="#dev-history">Development History</a></li>
@@ -94,6 +95,17 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <li>Add ability to search more than one ingreidient </li>
  <li>Change formatting in tab to be Simply-Savory (capitalize second S) </li>
  </ul>
+
+<h1 id="challenges">Challenges</h1>
+Throughout the development of this project, we had to overcome many issues as seemingly simple features required a substantial amount of work to implement properly and to a high standard. We spent alot of time expanding far beyond the template "Add Stuff, List Stuff" pages, and made sure 
+
+Halfway in between Milestone 2 and 3 we achieved what we considered to be a Milestone 3 level of functionality for Simply Savory, besides some small cosmetic changes & grammar errors that we recieved as feedback, we were mostly done. 
+
+After this we decided to work on Vendors as an additional improvement, this proved to be much more difficult than we planned as we had designed the infrastructure of our project in a peculiar way. With all the inter-linking between recipes, accounts, cards and components we soon realized that implementing: A vendor account type, vendor page for posting deals, and displaying deals would be much more work than we anticipated. We would essentially need to redo most of our previous work as we encountered issues sharing account information between client and server.
+
+* Nate Add Your Paragraph Here*
+
+In the end we came together as a group and discussed how to proceed. We ended up deciding not to include anything pertaining to Vendor, as we felt that it would detract from the quality of the rest of the project if we had a few pages and components that were not up to our standards. We had a draft for a vendor deals page that displayed posted deals in a table similar to "List Stuff", but this was certainly not Milestone 3 level, and due to time constraints we would not have enough time to bring all vendor components and pages up to a similar level of quality as the rest of the site.
 
 <h1 id="developer-guide">Developer Guide</h1>
 <h3 id="installation">Installation</h3>
