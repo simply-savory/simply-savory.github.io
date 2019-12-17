@@ -22,15 +22,15 @@ Simply Savory has many different pages to help serve the UH community, this sect
 
 
  <h3>Landing</h3>
- <img width="800" height="500" src="images/ScreenShotUpdates/Landing.png">
+ <img width="900" height="500" src="images/ScreenShotUpdates/Landing.png">
  When you first visit the site, you are taken here to the landing page. It provides an introduction about what simply savory is, and how to get started with registering an account and posting recipes. While not signed in, you will only be able to access the discover recipes tab, help tab, and be able to sign up for a new account or log in via the top right drop down.
   
   <h3>Account Creation/Sign In</h3>
-  <img width="800" height="550" src="images/ScreenShotUpdates/SignUp.png">
+  <img width="1000" height="550" src="images/ScreenShotUpdates/SignUp.png">
  Clicking Sign-Up on the login dropdown will bring you to this page. Here you can enter some general information such as your email address, password, first name and last name. Users can also indicate if they are a vendor, meaning they would like to advertise deals on ingredients (this account type is still able to post & view recipes).
   
  <h3>The Recipe Card</h3>
- <img width="200" height="550" src="images/ScreenShotUpdates/Card.png">
+ <img width="200" height="400" src="images/ScreenShotUpdates/Card.png">
  Here you can see the information displayed on a recipe card, this card is utilized on several pages, including "Discover Recipes" "My Recipes" and "My Favorites". The card provides a preview into the recipe that it pertains to, including title, author name, ingredients, and a picture. The bottom of the card has 2 buttons initially, a heart which likes and favorites the recipe, and view, which will open up the full recipe on a new page. If you are logged in, and are the poster of the recipe, you will have a edit button that opens up a page allowing you to change the recipe information.
  
  <h3>Discover Recipes</h3>
