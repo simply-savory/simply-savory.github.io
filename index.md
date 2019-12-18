@@ -114,8 +114,11 @@ Simply Savory has many different pages to help serve the UH community, this sect
 <h1 id="special-sauce">The Special Sauce </h1>
 The feature that we spent the most time implementing, and serves as the "secret sauce" of our project is the likes/favorites system. Initially we thought this would be as simple as incrementing a value for the likes a recipe has, and saving an array with recipe IDs to the profile of the user, but we soon found that this was a much more difficult task than anticipated.
 
-*Add Nate/Felix explaination here*
+
 What we ended up having to do was create a whole new api schema that would contain all the favorite IDs and match them up with the recipe IDs. The difficulty of this partially came from trying to remove unfavorited recipes from the favorites list. This was because of a client vs. server issue where it was untrusted to remove data that was favorited unless it was done through the favorites ID. It took the use of a few underscore functions in order to filter out the data to remove the single favorite ID upon unliking a recipe.
+
+
+There was lots of additional troubleshooting required for keeping the icons consistent between cards. For example, the cards are sorted by likes and 2 cards have the same amount of likes, if the user liked the card to the left, it would then be resorted and moved to the right, but the "active heart" icon would remain in the same spot on the page (although the card it referred to has moved).
 
 <h1 id="challenges">Challenges</h1>
 Throughout the development of this project, we had to overcome many issues as seemingly simple features required a substantial amount of work to implement properly and to a high standard. We spent alot of time expanding far beyond the template "Add Stuff, List Stuff" pages, and made sure 
