@@ -5,6 +5,7 @@
  <li><a href="#overview">Overview</a></li>
   <li><a href="#user-guide">User Guide</a></li>
  <li><a href="#community-feedback">Community Feedback</a></li>
+ <li><a href="#special-sauce">The Special Sauce</a></li>
   <li><a href="#challenges">Challenges</a></li>
  <li><a href="#developer-guide">Developer Guide</a></li>
  <li><a href="#links">Links</a> </li>
@@ -108,6 +109,11 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <li>Change formatting in tab to be Simply-Savory (capitalize second S) </li>
  </ul>
 
+<h1 id="special-sauce">The Special Sauce </h1>
+The feature that we spent the most time implementing, and serves as the "secret sauce" of our project is the likes/favorites system. Initially we thought this would be as simple as incrementing a value for the likes a recipe has, and saving an array with recipe IDs to the profile of the user, but we soon found that this was a much more difficult task than anticipated.
+
+*Add Nate/Felix explaination here*
+
 <h1 id="challenges">Challenges</h1>
 Throughout the development of this project, we had to overcome many issues as seemingly simple features required a substantial amount of work to implement properly and to a high standard. We spent alot of time expanding far beyond the template "Add Stuff, List Stuff" pages, and made sure 
 
@@ -159,7 +165,7 @@ You may need to request permission from the authors in order to access the repo.
 In Milestone 1, the following tasks were accomplished:
 <ul>
  <li>Mockups for all 8 pages</li>
- <li>Galaxy Deployment </li>
+ <li>Initial Galaxy Deployment </li>
  <li>Github.io initial creation </li>
  <li>Navbar created & search bar </li>
  <li>App routing & linking </li>
