@@ -104,7 +104,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <li>Add darker borders to cards to make them pop more </li>
  </ul>
  
- <h4>UH Manoa Electircal Engineering Student #2</h4>
+ <h4>UH Manoa Electrical Engineering Student #2</h4>
  
  Suggestions/Comments:
  <ul>
