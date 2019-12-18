@@ -60,7 +60,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
  At the bottom of each recipe page, there is a feed displaying reviews left by users, showing the name of the user with the message.
  
 <h1 id="community-feedback">Community Feedback</h1>
-<h4>Kayli Chun: UH Manoa Mechanical Engineering Student</h4>
+<h4UH Manoa Mechanical Engineering Student</h4>
 
  Suggestions/Comments:
  <ul>
@@ -71,7 +71,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <li>Pop up to verify recipe deletion </li>
  </ul>
  
- <h4>Huy Nguyen: UH Manoa Electrical Engineering Student</h4>
+ <h4>UH Manoa Electrical Engineering Student</h4>
  
  Suggestions/Comments:
  <ul>
@@ -80,7 +80,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <li>Add bullet points to the cards for ingredients </li>
  </ul>
  
- <h4>Radford Leong: UH Manoa MIS Student</h4>
+ <h4>UH Manoa MIS Student</h4>
  
  Suggestions/Comments:
  <ul>
@@ -92,7 +92,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <li>Return back to my recipe page after submitting an edit </li>
  </ul>
  
- <h4>Spencer Lau: UH Manoa Law Student</h4>
+ <h4>UH Manoa Law Student</h4>
  
  Suggestions/Comments:
  <ul>
@@ -100,7 +100,7 @@ Simply Savory has many different pages to help serve the UH community, this sect
  <li>Add darker borders to cards to make them pop more </li>
  </ul>
  
- <h4>Carissa Nakao: UH Manoa Electircal Engineering Student </h4>
+ <h4>UH Manoa Electircal Engineering Student #2</h4>
  
  Suggestions/Comments:
  <ul>
