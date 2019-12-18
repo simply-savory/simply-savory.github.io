@@ -60,7 +60,9 @@ Simply Savory has many different pages to help serve the UH community, this sect
  At the bottom of each recipe page, there is a feed displaying reviews left by users, showing the name of the user with the message.
  
 <h1 id="community-feedback">Community Feedback</h1>
-<h4UH Manoa Mechanical Engineering Student</h4>
+
+
+<h4>UH Manoa Mechanical Engineering Student</h4>
 
  Suggestions/Comments:
  <ul>
