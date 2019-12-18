@@ -1,4 +1,4 @@
- <img width="1500" height="250" src="images/simply-savory-logo.png">
+<a href="http://simply-savory.meteorapp.com/#/"> <img width="1500" height="250" src="images/simply-savory-logo.png"></a>
 
 # Table of Contents
 <ul>
