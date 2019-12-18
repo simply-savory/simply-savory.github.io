@@ -31,9 +31,11 @@ Simply Savory has many different pages to help serve the UH community, this sect
  Clicking Sign-Up on the login dropdown will bring you to this page. Here you can enter some general information such as your email address, password, first name and last name. Users can also indicate if they are a vendor, meaning they would like to advertise deals on ingredients (this account type is still able to post & view recipes).
   
  <h3>The Recipe Card</h3>
+  <img width="200" height="400" src="images/ScreenShotUpdates/card1.png">
+   <img width="200" height="400" src="images/ScreenShotUpdates/card2.png">
  <img width="200" height="400" src="images/ScreenShotUpdates/Card.png">
  
- Here you can see the information displayed on a recipe card, this card is utilized on several pages, including "Discover Recipes" "My Recipes" and "My Favorites". The card provides a preview into the recipe that it pertains to, including title, author name, ingredients, and a picture. The bottom of the card has 2 buttons initially, a heart which likes and favorites the recipe, and view, which will open up the full recipe on a new page. If you are logged in, and are the poster of the recipe, you will have a edit button that opens up a page allowing you to change the recipe information.
+ Here you can see the information displayed on a recipe card, this card is utilized on several pages, including "Discover Recipes" "My Recipes" and "My Favorites". The card provides a preview into the recipe that it pertains to, including title, author name, ingredients, and a picture. We have implemented measures to display buttons selectively to ensure that the user does not get confused about what they are able to do. The first image shows what the card looks like to the unlogged in user, they are able to view the recipe and nothing else. A logged in user will be able to like the recipe which adds it to their favorites, and view the recipe. Lastly the edit button is only shown if the user is the owner/poster of the recipe.
  
  <h3>Discover Recipes</h3>
  <img width="900" height="500" src="images/ScreenShotUpdates/Discover.png">
@@ -119,6 +121,8 @@ What we ended up having to do was create a whole new api schema that would conta
 
 
 There was lots of additional troubleshooting required for keeping the icons consistent between cards. For example, the cards are sorted by likes and 2 cards have the same amount of likes, if the user liked the card to the left, it would then be resorted and moved to the right, but the "active heart" icon would remain in the same spot on the page (although the card it referred to has moved). We figured out that the problem was not due to the likes functionality but with displaying the recipe cards by mapping through the filtered recipe list. Originally we had it use an index to pass to each key, but the issue with that was that when the cards would try to sort, it would only know the recipe by the index it was assigned which was not unique to the recipe. To fix this we figured out we had to pass the unique recipe ID as the key for each recipe card.
+
+Lastly, after receiving feedback from Dr.Johnson, and thinking about "what the user could do wrong" we decided to implement a system that hid certain features if they would not work for the user in their current state. For example, we hide the like/favorite button from the user if they are not logged in, instead of a pop up telling them to sign in, or simply not giving them any feedback, we just remove it from that view. We initially had a pop up for the edit button telling the user that they do not have permission to edit, but decided that from a user-perspective it would be better to not see the button at all. This is accomplished with a number of utility functions that call on the Meteor Accounts library.
 
 <h1 id="challenges">Challenges</h1>
 Throughout the development of this project, we had to overcome many issues as seemingly simple features required a substantial amount of work to implement properly and to a high standard. We spent alot of time expanding far beyond the template "Add Stuff, List Stuff" pages, and made sure 
