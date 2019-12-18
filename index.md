@@ -31,8 +31,8 @@ Simply Savory has many different pages to help serve the UH community, this sect
  Clicking Sign-Up on the login dropdown will bring you to this page. Here you can enter some general information such as your email address, password, first name and last name. Users can also indicate if they are a vendor, meaning they would like to advertise deals on ingredients (this account type is still able to post & view recipes).
   
  <h3>The Recipe Card</h3>
-  <img width="200" height="400" src="images/ScreenShotUpdates/card1.png">
-   <img width="200" height="400" src="images/ScreenShotUpdates/card2.png">
+  <img width="200" height="400" src="images/ScreenShotUpdates/card2.png">
+   <img width="200" height="400" src="images/ScreenShotUpdates/card1.png">
  <img width="200" height="400" src="images/ScreenShotUpdates/Card.png">
  
  Here you can see the information displayed on a recipe card, this card is utilized on several pages, including "Discover Recipes" "My Recipes" and "My Favorites". The card provides a preview into the recipe that it pertains to, including title, author name, ingredients, and a picture. We have implemented measures to display buttons selectively to ensure that the user does not get confused about what they are able to do. The first image shows what the card looks like to the unlogged in user, they are able to view the recipe and nothing else. A logged in user will be able to like the recipe which adds it to their favorites, and view the recipe. Lastly the edit button is only shown if the user is the owner/poster of the recipe.
